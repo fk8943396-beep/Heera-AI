@@ -104,6 +104,7 @@ fullscreen = 0
 # (list) Permissions
 # (See https://python-for-android.readthedocs.io/en/latest/buildoptions.html for all the supported syntaxes and properties)
 android.permissions = RECORD_AUDIO
+android.accept_sdk_license = True
 
 # (list) features (adds uses-feature -tags to manifest)
 #android.features = android.hardware.usb.host
